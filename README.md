@@ -4,7 +4,7 @@ Orb Energy is a leading provider of rooftop solar solutions for homes and busine
 
 **Reduce your electricity bills and power your home with the sun!**
 
-Learn more about our residential rooftop solar solutions on our website: [rooftop solar](www.orbenerhy.com/residential-rooftop-solar/).
+Learn more about our residential rooftop solar solutions on our website: [rooftop solar](www.orbenergy.com/residential-rooftop-solar/).
 
 **In this repository, you'll find:**
 
