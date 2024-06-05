@@ -1,0 +1,39 @@
+# Numeros Motors - Electric Scooters
+
+This repository contains the source code for Numeros Motors website (numerosmotors.com), specializing in high-quality electric scooters.
+
+##  Getting Started
+
+These instructions will guide you through setting up a development environment to work on the Numeros Motors website.
+
+**Prerequisites:**
+
+* A code editor or IDE of your choice (e.g., Visual Studio Code, Sublime Text)
+* Basic understanding of HTML, CSS, and JavaScript (optional)
+
+**Steps:**
+
+1. Clone this repository to your local machine using Git.
+2. Open the project directory in your code editor.
+3. (Optional) Install any required dependencies using a package manager (if applicable).
+4. Start a local development server to preview the website (instructions will vary depending on your chosen framework or setup).
+
+## Website Features
+
+The Numeros Motors website offers a variety of features to showcase our electric scooters and provide a seamless user experience. Here are some highlights:
+
+* **Product Pages:** Detailed information about each electric scooter model, including specifications, features, and high-quality images.
+* **Contact Us:** A form for users to inquire about our products or request a test drive.
+* **About Us:** Our company's story, mission, and commitment to sustainable transportation.
+
+##  Electric Scooters for Everyone
+
+Numeros Motors is dedicated to providing a reliable and eco-friendly transportation option for everyone. Visit our website [Numeros Motors](https://www.numerosmotors.com/product/) to explore our range of electric scooters and find the perfect one for you!
+
+## Contributing
+
+We welcome contributions from the community to improve the Numeros Motors website. If you have any suggestions or bug fixes, please feel free to open an issue or pull request on this repository.
+
+## License
+
+This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
